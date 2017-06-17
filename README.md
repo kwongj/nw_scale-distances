@@ -1,5 +1,5 @@
 # nw_scale-distances
-Converts/scales distances in newick trees
+Converts/scales distances in newick trees and prints modified tree to `stdout`
 
 ## Author
 Jason Kwong (@kwongjc)
